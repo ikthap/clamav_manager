@@ -10,8 +10,11 @@ I'm not a professional programmer, I'm learning to program, have mercy :)
 First use:
 -------------
 If this is your first time using ClamAV antivirus Manager and you have not installed ClamAV Follow these steps:
+
 1- Enter Advance Options
+
 2- Select the option Install ClamAV
+
 3- When finished settling select Update ClamAV DataBase
 
 and ... voilà !! already have installed ClamAV
