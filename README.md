@@ -25,9 +25,10 @@ and ... voilà !! already have installed ClamAV
 About ClamAV Manager v1.2
 --------------
 ClamAv Features:
+
 	-Complete System Scan
 	-Scan Home User Directory
-  -Custom Analysis
+	-Custom Analysis
 	-Update ClamAv DataBase
 	-Install ClamAv
 *Log files are created with each scan and classified by type in log/
