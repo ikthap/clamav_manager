@@ -34,6 +34,7 @@ ClamAv Features:
 *Log files are created with each scan and classified by type in log/
 
 Upcoming features:
+
 	-Introducing improved responses
 
 Known bugs:
